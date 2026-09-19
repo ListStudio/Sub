@@ -3,21 +3,13 @@
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #support-url: https://t.me/mixvpn1_bot
 #profile-web-page-url: https://t.me/mixvpn1_bot
-#announce: Плюс тариф, для обхода белых списков, обновление каждые 2 недели
-vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?encryption=none&type=tcp&security=none#Бот @Mixvpn1_bot
+#announce: Плюс тариф, для обхода белых списков🏳, обновление каждые 2 недели📅
 vless://f243f01f-1cd3-40d8-b4ac-66c48f2adf5f@rkn.gov.ru:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=cdnjs.com&fp=chrome&pbk=EtVRV1Dh4j1xrFM441RBEi62gWNtKB42lw55r680mWc&sid=d8ca73e8f52b1301#🔀АВТО-ВЫБОР
 vless://f243f01f-1cd3-40d8-b4ac-66c48f2adf5f@nidl-gate.krotmonstr.online:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=nidl-gate.krotmonstr.online&fp=firefox&pbk=EtVRV1Dh4j1xrFM441RBEi62gWNtKB42lw55r680mWc&sid=e40d252c5f7e9391#🇳🇱Нидерланды
 vless://f243f01f-1cd3-40d8-b4ac-66c48f2adf5f@nidl-cdn.krotmonstr.online:443?encryption=none&type=xhttp&path=%2FworktopRF&host=platform-api.max.ru&mode=stream-one&security=reality&sni=nidl-cdn.krotmonstr.online&fp=firefox&pbk=EtVRV1Dh4j1xrFM441RBEi62gWNtKB42lw55r680mWc&sid=6ddb1f8996256cab#🇳🇱Нидерланды_xhttp
 vless://f243f01f-1cd3-40d8-b4ac-66c48f2adf5f@usus-cdn.krotmonstr.online:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=usus-cdn.krotmonstr.online&fp=firefox&pbk=XOJQi4NIygprPwYkLtbL7bmDca8VRz30iazpD-8DpG0&sid=7e1d16972fce5657#🇺🇸США
 vless://f243f01f-1cd3-40d8-b4ac-66c48f2adf5f@usus-gate.krotmonstr.online:443?encryption=none&type=xhttp&path=%2FworktopUSN&host=platform-api.max.ru&mode=stream-one&security=reality&sni=usus-gate.krotmonstr.online&fp=firefox&pbk=XOJQi4NIygprPwYkLtbL7bmDca8VRz30iazpD-8DpG0&sid=719306899191dfe8#🇺🇸США_xhttp
 vless://f243f01f-1cd3-40d8-b4ac-66c48f2adf5f@dege-gate.krotmonstr.online:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=dege-gate.krotmonstr.online&fp=edge&pbk=ZlHGuFEAxNghAM9OUdcYwaokVRVAsPt2MtM2Klf05WI&sid=c29317914126d4d1#🇩🇪Германия
-#profile-title: MIX VPN Plus ⚡
-#profile-update-interval: 336
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-#support-url: https://t.me/mixvpn1_bot
-#profile-web-page-url: https://t.me/mixvpn1_bot
-#announce: Плюс тариф, для обхода белых списков, обновление каждые 2 недели
-
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?encryption=none&type=tcp&security=none#App_not_supported
 vless://f243f01f-1cd3-40d8-b4ac-66c48f2adf5f@rkn.gov.ru:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=cdnjs.com&fp=chrome&pbk=EtVRV1Dh4j1xrFM441RBEi62gWNtKB42lw55r680mWc&sid=d8ca73e8f52b1301#🔀АВТО-ВЫБОР
 vless://f243f01f-1cd3-40d8-b4ac-66c48f2adf5f@nidl-gate.krotmonstr.online:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=nidl-gate.krotmonstr.online&fp=firefox&pbk=EtVRV1Dh4j1xrFM441RBEi62gWNtKB42lw55r680mWc&sid=e40d252c5f7e9391#🇳🇱Нидерланды
@@ -36,7 +28,7 @@ vless://f243f01f-1cd3-40d8-b4ac-66c48f2adf5f@shwec-exit.krotmonstr.online:443?en
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1TTF2N1J0RFVWTlN2RjZ5Q3ZaUkxYMnlLUkU5Rlljeg==@shwec-gate.krotmonstr.online:1080#🇸🇪Швеция_ss
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?encryption=none&type=tcp&security=none#App%20not%20supported
 vless://xxxxxxxxxx1@localhost:80?...#📆
-vless://xxxxxxxxxx1@localhost:444?...#➡️t.me/whiteLTEbot
+vless://xxxxxxxxxx1@localhost:444?...#➡️t.me/Mixvpn1_bot
 vless://xxxxxxxxxx3@localhost:8443?...#🟢
 vless://645bf053-7a86-4964-ac80-ac7d2457a02d@201.24.52.249:443?type=tcp&security=reality&pbk=wumWNcfvySBoPZ7M5ekwNS-Wj-7ANSGKpFT-wOh28wc&fp=firefox&sni=ua.fasssst.ru&sid=c50a12c57a6cdbe1&spx=%2F&flow=xtls-rprx-vision#%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D1%8F%F0%9F%87%AC%F0%9F%87%A7%F0%9F%94%83
 vless://b018edb7-bfef-4938-8501-707d919b151a@147.45.100.103:443?type=tcp&security=reality&pbk=E0je2FjK-V6ekV9qAXVoBGXMzii-gDIaoYjI2B02rXY&fp=firefox&sni=vkusit.com&sid=5b27f0e4&spx=%2F&flow=xtls-rprx-vision#%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F%F0%9F%87%AB%F0%9F%87%B7%F0%9F%94%83
